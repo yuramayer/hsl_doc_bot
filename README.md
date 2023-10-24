@@ -1,2 +1,1 @@
-# hsl_doc_bot
-Telegram Bot for HSL MSAL with Docs
+# Telegram Bot for Higher School of Law, MSAL
